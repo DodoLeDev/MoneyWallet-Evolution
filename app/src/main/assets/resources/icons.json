@@ -68,6 +68,9 @@
           "resource": "ic_icon_plane_ticket_2"
         },
         {
+          "resource": "ic_icon_pass"
+        },
+        {
           "resource": "ic_icon_ambulance"
         },
         {
@@ -78,6 +81,39 @@
         },
         {
           "resource": "ic_icon_path_direction"
+        },
+        {
+          "resource": "ic_icon_bus2"
+        },
+        {
+          "resource": "ic_icon_cable_car"
+        },
+        {
+          "resource": "ic_icon_electric_gas_station"
+        },
+        {
+          "resource": "ic_icon_fuel"
+        },
+        {
+          "resource": "ic_icon_gas_station"
+        },
+        {
+          "resource": "ic_icon_highway"
+        },
+        {
+          "resource": "ic_icon_movie"
+        },
+        {
+          "resource": "ic_icon_plane"
+        },
+        {
+          "resource": "ic_icon_tent"
+        },
+        {
+          "resource": "ic_icon_toll"
+        },
+        {
+          "resource": "ic_icon_train"
         }
       ]
     },
@@ -98,6 +134,12 @@
         },
         {
           "resource": "ic_icon_armchair_lamp"
+        },
+        {
+          "resource": "ic_icon_newspaper"
+        },
+        {
+          "resource": "ic_icon_working"
         }
       ]
     },
@@ -143,6 +185,29 @@
           "resource": "ic_icon_basketball"
         },
         {
+          "resource": "ic_icon_bicycle"
+        },
+        {
+          "resource": "ic_icon_scooter"
+        }
+      ]
+    },
+    {
+      "name": "icon_category_activities",
+      "icons": [
+        {
+          "resource": "ic_icon_boat"
+        },
+        {
+          "resource": "ic_icon_camera"
+        },
+        {
+          "resource": "ic_icon_circus"
+        },
+        {
+          "resource": "ic_icon_theater"
+        },
+        {
           "resource": "ic_icon_brush"
         },
         {
@@ -162,9 +227,6 @@
         },
         {
           "resource": "ic_icon_folding_fan"
-        },
-        {
-          "resource": "ic_icon_pass"
         }
       ]
     },
@@ -173,6 +235,29 @@
       "icons": [
         {
           "resource": "ic_icon_cocktail"
+        },
+        {
+          "resource": "ic_icon_coffee"
+        },
+        {
+          "resource": "ic_icon_dinner_table"
+        }
+      ]
+    },
+    {
+      "name": "icon_category_health",
+      "icons": [
+        {
+          "resource": "ic_icon_blood"
+        },
+        {
+          "resource": "ic_icon_health_care"
+        },
+        {
+          "resource": "ic_icon_health_report"
+        },
+        {
+          "resource": "ic_icon_medication"
         }
       ]
     },
@@ -203,6 +288,29 @@
       ]
     },
     {
+      "name": "icon_category_people",
+      "icons": [
+        {
+          "resource": "ic_icon_boy"
+        },
+        {
+          "resource": "ic_icon_doctor"
+        },
+        {
+          "resource": "ic_icon_family"
+        },
+        {
+          "resource": "ic_icon_father"
+        },
+        {
+          "resource": "ic_icon_girl"
+        },
+        {
+          "resource": "ic_icon_mother"
+        }
+      ]
+    },
+    {
       "name": "icon_category_finance",
       "icons": [
         {
@@ -213,6 +321,39 @@
         },
         {
           "resource": "ic_icon_pos"
+        },
+        {
+          "resource": "ic_icon_archive"
+        },
+        {
+          "resource": "ic_icon_bank"
+        },
+        {
+          "resource": "ic_icon_cash1"
+        },
+        {
+          "resource": "ic_icon_cash2"
+        },
+        {
+          "resource": "ic_icon_cash3"
+        },
+        {
+          "resource": "ic_icon_exchange"
+        },
+        {
+          "resource": "ic_icon_fine"
+        },
+        {
+          "resource": "ic_icon_money_transfer"
+        },
+        {
+          "resource": "ic_icon_online_commerce"
+        },
+        {
+          "resource": "ic_icon_wallet"
+        },
+        {
+          "resource": "ic_icon_wallet2"
         }
       ]
     }
