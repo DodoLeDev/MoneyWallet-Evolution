@@ -20,6 +20,12 @@
 
 <changelog>
 
+    <version versionName="4.1.0" versionDate="Sep 4, 2023">
+        <change>[b]New![/b] You now have a 8 new icons to play with!</change>
+        <change>[b]New![/b] MoneyWallet now has a new logo to mark a new beginning!</change>
+        <change>Fixed french translation strings.</change>
+    </version>
+
     <version versionName="4.0.5" versionDate="Jan 25, 2019">
         <change>[b]New![/b] You can now sort the wallets.</change>
         <change>[b]New![/b] You can now sort the categories.</change>
