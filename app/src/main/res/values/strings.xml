@@ -703,5 +703,7 @@
     <string name="activity_donation_action_contribute_title">"Contribute"</string>
     <string name="activity_donation_action_contribute_content">"The source code is public and everyone can collaborate"</string>
     <string name="activity_donation_final_content">"Every contribution, monetary or non-monetary, is equal and make substantial difference for me. Hope you enjoy it and thanks again for choosing to use this application."</string>
+    <string name="icon_category_activities">Activities</string>
+    <string name="icon_category_health">Health</string>
 
 </resources>
